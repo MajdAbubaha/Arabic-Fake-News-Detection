@@ -1,0 +1,2 @@
+The URL to download the trained LSTM model:
+https://drive.google.com/file/d/1dujTBlX8gRcMof9H1edXQf0ETXe7Aer_/view?usp=drive_link
